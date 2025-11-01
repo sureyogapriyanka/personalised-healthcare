@@ -324,8 +324,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## 📧 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/personalised_healthcare](https://github.com/yourusername/personalised_healthcare)
+Project Link: [https://github.com/sureyogapriyanka/personalised_healthcare](https://github.com/yourusername/personalised_healthcare)
